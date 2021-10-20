@@ -58,6 +58,7 @@ __________________________________________________________________
     * How to install programs (ask your closest admin or compile)
 * Remote file management
     * rsync
+* Interactively using the compute nodes.
 
 ### 6. Artificial Intelligence & Machine Learning - Dr Eli Kasai BSc BSc(Hons) MSc PhD
 * Introduction to ML
