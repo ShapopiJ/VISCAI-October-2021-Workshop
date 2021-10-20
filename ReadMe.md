@@ -11,7 +11,7 @@ ________________________________________________________________________________
 
 ### 1. Introduction to High Performance Computing - Prof. Michael Backes MSc PhD 
 
-#### <em href="#">Slides</em>
+#### [Click here for the Slides](Day1/HPC.pptx)
 
 - What is an HPC
 - Uses of an HPC
