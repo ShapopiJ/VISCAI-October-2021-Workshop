@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 ### 2. Introduction to the Linux shell - Hiiko Katjaita BSc(Hons)
 
-#### [Click here for the Notebook](Day 1/notebook.ipynb)
+#### [Click here for the Notebook](Day1/notebook.ipynb)
 
 * Why Linux?
 * Connecting to the UNAM-HPC
@@ -40,7 +40,7 @@ __________________________________________________________________
 
 ### 4. Using the HPC Cluster - Mr Jimmy Shapopi BSc(Hons) MSc
 
-#### [Click here for the Notebook](Day 2/HPC_PBS.ipynb)
+#### [Click here for the Notebook](Day2/HPC_PBS.ipynb)
 
 * Structure of the UNAM-HPC
 * The PBS job scheduler 
