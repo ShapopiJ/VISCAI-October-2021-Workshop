@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 ## Day 1
 
-#### <a href="https://drive.google.com/file/d/1AP4a19qCyAYTyjWldyr8TZMrW6FcVxIs/view?usp=sharing" target="_blank">Recording</a>
+#### <a href="https://drive.google.com/file/d/1AP4a19qCyAYTyjWldyr8TZMrW6FcVxIs/view?usp=sharing" target="_blank">Day 1 Recording</a>
 
 ### 1. Introduction to High Performance Computing - Prof. Michael Backes MSc PhD 
 
@@ -39,6 +39,8 @@ __________________________________________________________________
 
 
 ## Day 2
+
+#### <a href="https://drive.google.com/file/d/1AP4a19qCyAYTyjWldyr8TZMrW6FcVxIs/view?usp=sharing" target="_blank">Day 2 Recording</a>
 
 ### 4. Using the HPC Cluster - Mr Jimmy Shapopi BSc(Hons) MSc
 
