@@ -9,6 +9,8 @@ ________________________________________________________________________________
 
 ## Day 1
 
+#### <a href="https://drive.google.com/file/d/1AP4a19qCyAYTyjWldyr8TZMrW6FcVxIs/view?usp=sharing" target="_blank">Recording</a>
+
 ### 1. Introduction to High Performance Computing - Prof. Michael Backes MSc PhD 
 
 #### <a href="https://unam164-my.sharepoint.com/:p:/g/personal/mbackes_unam_na/EVu6YaHCCPJIr1_PuF0DF1oBB6lIXXZ68xvXrvkuNKCOdA?e=Lb03aJ" target="_blank">Click here for the Slides</a>
