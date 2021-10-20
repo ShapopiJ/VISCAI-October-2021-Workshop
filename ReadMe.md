@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 ### 2. Introduction to the Linux shell - Hiiko Katjaita BSc(Hons)
 
-#### [Click here for the Notebook](Day1/notebook.ipynb)
+#### [Click here for the Notebook](Day1/Introduction_to_Linux.ipynb)
 
 * Why Linux?
 * Connecting to the UNAM-HPC
