@@ -13,7 +13,7 @@ ________________________________________________________________________________
 
 ### 1. Introduction to High Performance Computing - Prof. Michael Backes MSc PhD 
 
-#### <a href="https://unam164-my.sharepoint.com/:p:/g/personal/mbackes_unam_na/EVu6YaHCCPJIr1_PuF0DF1oBB6lIXXZ68xvXrvkuNKCOdA?e=Lb03aJ" target="_blank">Click here for the Slides</a>
+#### <a href="https://unam164-my.sharepoint.com/:p:/g/personal/mbackes_unam_na/EVivDvPGOUhKreIYNL2IlVgBZl8DdBTFJcRZ7x3QBUM--w?e=jKIxed" target="_blank">Click here for the Slides</a>
 
 - What is an HPC
 - Uses of an HPC
@@ -72,5 +72,5 @@ __________________________________________________________________
         - Clustering
     * Reinforced Learning
 
-
+## [Exercises](Exercises/exe.ipynb)
 
