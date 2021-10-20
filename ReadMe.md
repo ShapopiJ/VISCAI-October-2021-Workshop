@@ -10,12 +10,16 @@ ________________________________________________________________________________
 ## Day 1
 
 ### 1. Introduction to High Performance Computing - Prof. Michael Backes MSc PhD 
+
+#### <em href="#">Slides</em>
+
 - What is an HPC
 - Uses of an HPC
 - The UNAM-HPC & VISCAI
 
 ### 2. Introduction to the Linux shell - Hiiko Katjaita BSc(Hons)
 
+#### [Click here for the Notebook](Day 1/notebook.ipynb)
 
 * Why Linux?
 * Connecting to the UNAM-HPC
@@ -35,6 +39,8 @@ __________________________________________________________________
 ## Day 2
 
 ### 4. Using the HPC Cluster - Mr Jimmy Shapopi BSc(Hons) MSc
+
+#### [Click here for the Notebook](Day 2/HPC_PBS.ipynb)
 
 * Structure of the UNAM-HPC
 * The PBS job scheduler 
