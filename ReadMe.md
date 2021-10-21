@@ -9,6 +9,10 @@ ________________________________________________________________________________
 
 ## Day 1
 
+### Recording 
+<iframe src="https://drive.google.com/file/d/1AP4a19qCyAYTyjWldyr8TZMrW6FcVxIs/preview" width="640" height="480" allow=""></iframe>
+
+
 #### <a href="https://drive.google.com/file/d/1AP4a19qCyAYTyjWldyr8TZMrW6FcVxIs/view?usp=sharing" target="_blank">Day 1 Recording</a>
 
 ### 1. Introduction to High Performance Computing - Prof. Michael Backes MSc PhD 
@@ -39,6 +43,9 @@ __________________________________________________________________
 
 
 ## Day 2
+
+### Recording
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5amY6crgXNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### <a href="https://drive.google.com/file/d/1AP4a19qCyAYTyjWldyr8TZMrW6FcVxIs/view?usp=sharing" target="_blank">Day 2 Recording</a>
 
