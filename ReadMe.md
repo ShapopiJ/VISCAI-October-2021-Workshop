@@ -68,6 +68,9 @@ __________________________________________________________________
 * Interactively using the compute nodes.
 
 ### 6. Artificial Intelligence & Machine Learning - Dr Eli Kasai BSc BSc(Hons) MSc PhD
+
+#### [Click here for the Slides]("Day2/M.Backes - VI-SCAI_AI.PPTX")
+
 * Introduction to ML
     * Supervised Learning
         - Regression
